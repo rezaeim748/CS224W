@@ -25,7 +25,7 @@ In this Colab, you will build and train your own **Graph Neural Network (GNN)** 
 2. **How to Run**:
    1. **Clone the Repository**:
       ```bash
-      git clone <repository-url>
+      git clone https://github.com/rezaeim748/CS224W
       ```
 
    2. **Install Dependencies**:
@@ -39,7 +39,3 @@ In this Colab, you will build and train your own **Graph Neural Network (GNN)** 
       - Set up the environment.
       - Load and inspect the OGB datasets.
       - Construct, train, and evaluate your GNN model on node and graph property prediction tasks.
-
-## Notes:
-- The Colab is expected to take around 2 hours, though debugging may extend the time.
-- Make sure to sequentially run all cells so that intermediate variables and packages carry over properly.
