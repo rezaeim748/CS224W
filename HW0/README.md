@@ -1,5 +1,5 @@
 
-# Graph Mining and Neural Networks
+# CS224W - Colab 0: Graph Mining and Neural Networks
 
 This folder contains the **Colab 0** notebook from the CS224W course, which introduces key concepts in graph mining and Graph Neural Networks (GNNs). The notebook focuses on familiarizing students with two essential Python packages for graph analysis:
 

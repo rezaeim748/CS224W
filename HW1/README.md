@@ -1,5 +1,5 @@
 
-# Learning Node Embeddings
+# CS224W - Colab 1: Learning Node Embeddings
 
 This notebook focuses on writing a full pipeline for **learning node embeddings**. The project explores multiple graph statistics, transforms graph structures for machine learning tasks, and implements a node embedding model using PyTorch.
 
