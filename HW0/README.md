@@ -1,7 +1,7 @@
 
 # Graph Mining and Neural Networks
 
-This repository contains the **Colab 0** notebook from the CS224W course, which introduces key concepts in graph mining and Graph Neural Networks (GNNs). The notebook focuses on familiarizing students with two essential Python packages for graph analysis:
+This folder contains the **Colab 0** notebook from the CS224W course, which introduces key concepts in graph mining and Graph Neural Networks (GNNs). The notebook focuses on familiarizing students with two essential Python packages for graph analysis:
 
 - **NetworkX**: A powerful library for the creation, manipulation, and analysis of complex networks.
 - **PyTorch Geometric**: A deep learning extension library that allows the implementation and training of Graph Neural Networks.
